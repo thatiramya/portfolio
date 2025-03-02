@@ -4,6 +4,8 @@ A modern, interactive portfolio website showcasing skills, projects, and achieve
 
 ![download](https://github.com/user-attachments/assets/f078ea30-232c-491c-ad6c-18af24321837)
 
+![2](https://github.com/user-attachments/assets/dc690c5e-ad3d-4f71-96e8-d29a86220fa9)
+
 
 ## 🚀 Live Demo
 

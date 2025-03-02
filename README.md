@@ -2,6 +2,8 @@
 
 A modern, interactive portfolio website showcasing skills, projects, and achievements with a futuristic design aesthetic.
 
+![download](https://github.com/user-attachments/assets/f078ea30-232c-491c-ad6c-18af24321837)
+
 
 ## 🚀 Live Demo
 
@@ -19,9 +21,7 @@ A modern, interactive portfolio website showcasing skills, projects, and achieve
 ## 🛠️ Technologies Used
 
 ### Core Technologies
-- **React**: Frontend library for building the user inte![download](https://github.com/user-attachments/assets/afa01a37-e85c-4968-9f86-04bfb4d0fde4)
-![download](https://github.com/user-attachments/assets/f078ea30-232c-491c-ad6c-18af24321837)
-rface
+- **React**: Frontend library for building the user interface
 - **TypeScript**: Type-safe JavaScript for better developer experience
 - **Vite**: Next-generation frontend tooling for fast development and optimized builds
 

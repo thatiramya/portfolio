@@ -2,7 +2,6 @@
 
 A modern, interactive portfolio website showcasing skills, projects, and achievements with a futuristic design aesthetic.
 
-![Portfolio Preview]([https://media-hosting.imagekit.io//78305d96611144cf/R_pic.jpg?Expires=1835467666&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=L10ziJezsPFKETT9Zd4oj6w~ByIm8NWndXjcsqM5QCowVvc8TUK58Hrls3923kwn~4LAMZEqhhri~iP4loiRD0rvF1wIIu79~C4xuuug3kjCXhCjmvZ1CEaqUI1SAv1oMb65bjLEztTS-n6aqQ~zzRZ~Api8JH-jzYEty7CPqaNnojtgAJ43cKOz-DmoHx5wxoiFWSDXI3xq7e41D3rilbKX7zvLdZHpQAMXuKtDMjxTHW8lvW9s2h1pEzx4unfJGX5idHDV0Ixd1tM9Y2IHiJW10mDf-HoLoVMqBR5ukOaY1T-F-k4JkRklN3hF3OTu8smEEep~oOyrf151QdH4Kw__](https://www.google.com/imgres?q=professional%20cool%20images%20with%20laptop&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1525547719571-a2d4ac8945e2%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGFwdG9wfGVufDB8fDB8fHww&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flaptop&docid=7PT6bk_SGNxAlM&tbnid=uGvESnLpLrohcM&vet=12ahUKEwiDvaGRgeyLAxWdQ2cHHa2tIIMQM3oECBkQAA..i&w=3000&h=3750&hcb=2&ved=2ahUKEwiDvaGRgeyLAxWdQ2cHHa2tIIMQM3oECBkQAA))
 
 ## 🚀 Live Demo
 
@@ -20,7 +19,9 @@ A modern, interactive portfolio website showcasing skills, projects, and achieve
 ## 🛠️ Technologies Used
 
 ### Core Technologies
-- **React**: Frontend library for building the user interface
+- **React**: Frontend library for building the user inte![download](https://github.com/user-attachments/assets/afa01a37-e85c-4968-9f86-04bfb4d0fde4)
+![download](https://github.com/user-attachments/assets/f078ea30-232c-491c-ad6c-18af24321837)
+rface
 - **TypeScript**: Type-safe JavaScript for better developer experience
 - **Vite**: Next-generation frontend tooling for fast development and optimized builds
 
